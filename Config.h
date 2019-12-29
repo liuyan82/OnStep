@@ -17,7 +17,7 @@
 //   *** to be sure it matches your wiring.            *** USE AT YOUR OWN RISK ***                                           ***
 
 //      Parameter Name              Value   Default  Notes                                                                      Hint
-#define PINMAP                        OFF //    OFF, Choose from: MiniPCB, MiniPCB2, MaxPCB, MaxPCB2, STM32Blue,             <-Req'd
+#define PINMAP                        1 //    OFF, Choose from: MiniPCB, MiniPCB2, MaxPCB, MaxPCB2, STM32Blue,             <-Req'd
                                           //         Ramps14, MaxESP2, MaxESP3.  Check Constants.h for more info.
 
 // SERIAL PORTS --------------------------------------------------------------------------------------------------------------------
